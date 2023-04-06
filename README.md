@@ -2,4 +2,4 @@
 
 [Click here for UI Inspiration](https://www.figma.com/file/WxO3nryqVCI4Ftupdl1Mvl/Front-End-Developer-Task-(Copy)?node-id=0%3A322&t=xjAmXDb6Txl6UwaG-1)
 
-[Click here for live-demo]()
+[Click here for live-demo](https://react-dashboard-ui-gamma.vercel.app/)
